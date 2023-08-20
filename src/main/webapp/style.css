@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+
+h1{
+	text-align: center;
+	color:green;
+}
+
+h2{
+	text-align: center;
+	color:cadetblue;
+}
+
+body{
+text-align: center;
+background-color: lightgoldenrodyellow;
+}
